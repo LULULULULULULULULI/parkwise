@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div>
       <Map></Map>
-      <h1>About Parkwise - Rent Out Your Parking Space</h1>
+      <h1>About Parkasdsaise - Rent Out Your Parking Space</h1>
       <p>
         Welcome to Parkwise, your convenient platform for renting out your
         parking space and earning money when you're not using it.
